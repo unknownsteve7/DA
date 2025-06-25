@@ -1,0 +1,5 @@
+Source Type,Platform,Format,Link
+Public Dataset,Kaggle,CSV,https://www.kaggle.com/datasets
+API,OpenWeather,JSON,https://openweathermap.org/api
+Web Scraped Data,IMDb Movies,HTML,https://www.imdb.com/chart/top
+Internal Export,Company CRM,Excel,(confidential)
