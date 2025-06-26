@@ -1,0 +1,6 @@
+name,age,gender,income,signup_date,duplicate_flag
+John,24.0,Male,55000,2023/06/01,FALSE
+John,24.0,male,55000,2023/06/01,FALSE
+,,,70000,06-06-2023,TRUE
+Lisa,99.0,Female, 75000,"June 10, 23",FALSE
+Mark,27.0,male,65000.0,2023-06-11,FALSE
